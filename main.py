@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[1]:
-
-
 import os.path
 import tensorflow as tf
 import helper
@@ -198,16 +193,5 @@ def run():
         
 if __name__ == '__main__':
     run()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
